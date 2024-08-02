@@ -1,0 +1,501 @@
+State,LGA,Ward,Facility Name,Level,Ownership
+Abia,Aba North,Ariaria,48319756,01/01/1/1/2/0001,Aba Holy Wounds Hospital
+Abia,Aba North,Ariaria,26456575,01/01/1/1/2/0025,Euna Hospital
+Abia,Aba North,Ariaria,73938255,01/01/1/1/2/0030,Goodness & Mercy hospital
+Abia,Aba North,Ariaria,45969224,01/01/1/1/2/0041,Ivory Specialist Hospital Maternity
+Abia,Aba North,Ariaria,61180169,01/01/1/1/2/0054,Nnadozie Hospital/ Maternity
+Abia,Aba North,Asaokpuaja,25705792,01/01/1/1/2/0007,Berma Hospital
+Abia,Aba North,Ogbor 1,66479648,01/01/1/1/2/0037,Impact Hospital
+Abia,Aba North,Ogbor 1,37372783,01/01/1/1/2/0040,isaac okwuonu memorial hospital /maternity
+Abia,Aba North,Ogbor 1,76956340,01/01/1/1/2/0052,Nissi Hospital
+Abia,Aba North,Ogbor 2,45827382,01/01/1/1/2/0009,Blessed heaven hospital
+Abia,Aba North,Ogbor 2,42040526,01/01/1/1/2/0020,Ebenma Hospital
+Abia,Aba North,Ogbor 2,70718241,01/01/1/1/2/0022,Ellion Hospital clinic
+Abia,Aba North,Ogbor 2,80918309,01/01/1/1/2/0032,Group Medical Practice/maternity
+Abia,Aba North,Ogbor 2,65557962,01/01/1/2/2/0025,Reagents specialist hospital /maternity
+Abia,Aba North,Old GRA,38145837,01/01/1/1/2/0004,Angels of Mercy Hospital
+Abia,Aba North,Old GRA,81463501,01/01/1/1/2/0006,Austin Graces Hospital
+Abia,Aba North,Old GRA,69230910,01/01/1/1/2/0016,chinwendu clinic and maternity
+Abia,Aba North,Old GRA,75493094,01/01/1/1/2/0059,Olive Hospital and maternity
+Abia,Aba North,Umuola,47587317,01/01/1/1/2/0003,Alpha Inland Hospital
+Abia,Aba North,Umuola,62411451,01/01/1/1/2/0042,Kahabiri Hospital
+Abia,Aba North,Umuola,42707211,01/01/1/2/2/0087,orienz specialist hospital
+Abia,Aba North,Umuola,44899462,01/01/1/1/2/0066,Pricess Mary Hospital
+Abia,Arochukwu,Arochukwu 1,30415725,01/03/1/2/2/0058,ARO USA
+Abia,Arochukwu,Arochukwu 1,71428353,01/03/1/2/1/0001,Arochukwu General Hospital
+Abia,Arochukwu,Arochukwu 2,61467140,01/03/1/2/2/0006,St Anthony'S Hospital (Arochukwu)
+Abia,Arochukwu,Arochukwu 3,79521498,01/03/1/2/2/0057,God Blessed
+Abia,Arochukwu,Arochukwu 3,44547607,01/03/1/2/1/0003,Obinkita Health Centre
+Abia,Arochukwu,Ikwun 1,31331307,01/03/1/2/2/0002,Mercy Catholic Hospital
+Abia,Arochukwu,Ohafor 1,34460006,01/03/1/2/2/0009,The Light Hospital
+Abia,Arochukwu,Ututu,18405757,01/03/1/2/1/0055,Cottage Hospital
+Abia,Bende,Item 1,57624198,01/04/1/2/1/0001,Umunnato General Hospital
+Abia,Bende,Itumbauzo 1,76521138,01/04/1/1/2/0010,St. Nicholas Catholic Hospital
+Abia,Bende,Ugwueke,77021455,01/04/1/2/2/0003,Royal Cross Methodist Hospital
+Abia,Bende,Uzuakoli 2,31523236,01/04/1/1/2/0001,Achama  Hospital
+Abia,Bende,Uzuakoli 2,23680288,01/04/1/1/2/0011,Tochi Hospital
+Abia,Isiala-Ngwa North,Ngwaukwu 1,72013874,01/06/1/2/1/0001,Okpuala Ngwa General Hospital
+Abia,Isiala-Ngwa North,Umuelemoh Mbawsi,42911768,01/06/1/2/2/0001,Central Medical Centre
+Abia,Isiala-Ngwa North,Umuha,19759187,01/06/1/2/2/0005,St Eugene Hospital
+Abia,Isiala-Ngwa South,Aku-na Ekpu I,74145406,01/07/1/2/2/0102,Teresa Orsini Clinic
+Abia,Isiala-Ngwa South,Amaise Ahaba,26484156,01/07/1/2/2/0098,Central Hospital
+Abia,Isiala-Ngwa South,Amaise Ahaba,36468069,01/07/1/2/1/0095,Nigeria Naval Finance Logistics Hospital
+Abia,Isiala-Ngwa South,Amaise Ahaba,34925382,01/07/1/1/2/0011,Ronald Hospital
+Abia,Isiala-Ngwa South,Amaise Ahaba,62093154,01/07/1/1/2/0015,St. Simons Maternity Hospital
+Abia,Isiala-Ngwa South,Omoba,33675241,01/07/1/2/2/0002,Christianways Mission Hospital
+Abia,Isiala-Ngwa South,Omoba,40406086,01/07/1/2/2/0097,Ronald Hospital Annex
+Abia,Isiala-Ngwa South,Ovuokwu,26976843,01/07/1/1/2/0003,Gods Care Hospital Maternity Clinic
+Abia,Isuikwuato,Absu/Umuayi,19975342,01/08/1/1/2/0001,Mbaugwu Memorial Hospital
+Abia,Isuikwuato,Absu/Umuayi,77657543,01/08/1/2/2/0002,Swiss Foundation Hospital
+Abia,Isuikwuato,Eluma,53719389,01/08/1/2/2/0003,Living Hope Medical Center
+Abia,Isuikwuato,Isiala,76261768,01/08/1/2/1/0001,General Hospital Isuikwuato
+Abia,Isuikwuato,Isunabo (Isukwator),79168068,01/08/1/2/2/0001,Ogechukwu Clinic
+Abia,Obi Ngwa,Abayi 1,86612639,01/09/1/2/2/0066,ArchBishop Charse Herry Memorial Spe. Hospital
+Abia,Obi Ngwa,Abayi 1,54573083,01/09/1/2/2/0068,LILY PRAISE MATERNITY
+Abia,Obi Ngwa,Abayi 1,12896384,01/09/1/2/2/0073,Shalom Maternity
+Abia,Obi Ngwa,Abayi 1,61243638,01/09/1/2/2/0067,SHALOM Maternity
+Abia,Obi Ngwa,Abayi 2,68830156,01/09/1/1/2/0015,Regent Cross Clinic
+Abia,Obi Ngwa,Ahiaba 5,39174059,01/09/1/2/2/0065,Juliet Paul Mother And Child  Maternity
+Abia,Obi Ngwa,Mgboko Amiri,71469912,01/09/1/2/2/0069,Oluebube Chukwu Maternity Home
+Abia,Obi Ngwa,Mgboko Amiri,41089779,01/09/1/2/2/0074,Oluebubechukwu Maternity Home
+Abia,Ohafia,Ameke 2,47590693,01/10/1/1/2/0002,Chioma Clinic & Maternity
+Abia,Ohafia,Ameke 2,59327741,01/10/1/1/2/0001,Madonna Catholic Hospital
+Abia,Ohafia,Ebemoha,29753103,01/10/1/2/2/0008,Mben Hospital
+Abia,Ohafia,Isiama,63588440,01/10/1/2/2/0065,Goshen Clinic & Maternity
+Abia,Ohafia,Isiama,47672647,01/10/1/1/2/0011,Uzondu Polyclinic
+Abia,Ohafia,Ohafor,79031449,01/10/1/2/2/0005,King Of Kings specialist Hospital
+Abia,Osisioma Ngwa,Amaitolu (Osisioma),24088186,01/11/1/2/2/0003,Calif Hospital
+Abia,Osisioma Ngwa,Amasator,14309956,01/11/1/2/2/0085,Gilead Hospital
+Abia,Osisioma Ngwa,Amasator,26411580,01/11/1/2/2/0010,Ihunanya Specialist Hospital
+Abia,Osisioma Ngwa,Amasator,26222207,01/11/1/2/2/0088,Jessy Divine Clinic/Maternity
+Abia,Osisioma Ngwa,Amasator,61631154,01/11/1/2/2/0020,Oribis Hospital
+Abia,Osisioma Ngwa,Amasator,14392136,01/11/1/2/2/0021,Romalex Hospital
+Abia,Osisioma Ngwa,Isiala Okpu,20851396,01/11/1/2/2/0004,Calvary Cottage Hospital
+Abia,Osisioma Ngwa,Okpu-Umuobo,77382358,01/11/1/2/2/0086,Angeles Specialist Hospital
+Abia,Osisioma Ngwa,Uratta (Osisioma Ngwa),29113577,01/11/1/2/2/0084,King's Christian Hospital
+Abia,Ugwunagbo,Ihie-Obeaku,60625499,01/12/1/1/2/0012,Nwodaku Memory Hospiatl And Maternity
+Abia,Ugwunagbo,Nkpukpuevula,83378934,01/12/1/1/2/0014,St.John Jesus Hospital
+Abia,Ugwunagbo,Obeaja,35539666,01/12/1/2/2/0020,St. Mark'S Hospital
+Abia,Ugwunagbo,Owerri-Aba,55256894,01/12/1/2/2/0009,Ikonne Memorial Hospital
+Abia,Ukwa East,Akwete Ohandu,75304035,01/13/1/2/2/0052,ab Father Farm Clinics Akwete
+Abia,Ukwa East,Azumini,35480683,01/13/1/2/2/0001,Cottage Hospital
+Abia,Ukwa East,Obohia,58856496,01/13/1/2/2/0049,Father Farm Clinic
+Abia,Ukwa West,Ipu East,33633122,01/14/1/1/2/0002,ab Denokem Hospital
+Abia,Ukwa West,Ipu West,83632364,01/14/1/2/2/0049,Glory of God Hospital
+Abia,Ukwa West,Ipu West,81067012,01/14/1/1/1/0018,Owaza Cottage Hospital
+Abia,Ukwa West,Obuzor,60258702,01/14/1/2/1/0045,Army barracks
+Abia,Umuahia North,Afaraukwu,21794449,01/15/1/2/2/0086,OVERCOMER CLINIC
+Abia,Umuahia North,Ndume,65928366,01/15/1/2/2/0098,RESTORATION SPECIALIST HOSPITAL
+Abia,Umuahia North,Urban 2,82746954,01/15/1/2/2/0101,AMAZING GRACE CLINIC
+Abia,Umuahia North,Urban 2,84587984,01/15/1/2/2/0102,FAMILY CLINIC
+Abia,Umuahia North,Urban 2,86201607,01/15/1/2/2/0103,LIFE GATE HOSPITAL
+Abia,Umuahia North,Urban 2,31792007,01/15/1/2/2/0087,MARANATHA HOSPITAL
+Abia,Umuahia North,Urban 2,56378972,01/15/1/2/2/0096,PPFN
+Abia,Umuahia North,Urban 2,40252490,01/15/1/2/2/0088,UWAOMA HOSPITAL
+Abia,Umuahia North,Urban 4,56354803,01/15/1/2/2/0095,ABBA SPECIALIST HOSPITAL
+Abia,Umuahia North,Urban 4,28299696,01/15/1/1/1/0008,All Saint Maternity And Clinic
+Abia,Umuahia North,Urban 4,56628180,01/15/1/2/2/0097,CHRIST SPEACIALIST HOSPITAL
+Abia,Umuahia North,Urban 4,43572710,01/15/1/2/2/0090,CONQUEST HOSPITAL& MATERNITY
+Abia,Umuahia North,Urban 4,48674768,01/15/1/2/2/0093,FOUNTAINS HOSPITAL
+Abia,Umuahia North,Urban 4,66300591,01/15/1/2/2/0099,MARGARET HOSPITAL
+Abia,Umuahia North,Urban 4,19014240,01/15/1/2/1/0086,POLICE CLINIC
+Abia,Umuahia North,Urban 4,44087902,01/15/1/2/2/0091,QUICK HEALTH SPEACIALIST
+Abia,Umuahia North,Urban 4,74135946,01/15/1/2/2/0100,ST VINCENT GRACE HOSPITAL
+Abia,Umuahia North,Urban 5,41336403,01/15/1/2/2/0089,AL-PRINCE HOSPITAL
+Abia,Umuahia North,Urban 5,54917618,01/15/1/2/2/0001,Chidiadi Access Hospital
+Abia,Umuahia North,Urban 5,64600891,01/15/1/2/2/0110,GOD'S GIFT CLINIC
+Abia,Umuahia North,Urban 5,53604965,01/15/1/2/2/0094,HOSSONNA SPEACIALIST HOSPITAL
+Abia,Umuahia North,Urban 5,44333214,01/15/1/2/2/0092,IHUNNA ENYINNA SPEACIALIST HOSPITAL
+Abia,Umuahia North,Urban 5,55963366,01/15/1/2/2/0108,IVORY MEDICAL CLINIC /MATERNITY
+Abia,Umuahia North,Urban 5,77256992,01/15/1/2/2/0109,OSINACHI MEDICAL CLINIC
+Abia,Umuahia North,Urban 5,15948173,01/15/1/1/2/0028,Uche Medicare
+Adamawa,Demsa,Borrong,42090976,02/01/1/2/1/0001,Borrong General Hospital
+Adamawa,Demsa,Demsa,24143695,02/01/1/1/2/0002,Lccn Health centre Demsa
+Adamawa,Demsa,Nassarawo Demsa,59118785,02/01/1/1/2/0003,Grace Land  Clinic and maternity home
+Adamawa,Fufore,Fufore,39641698,02/02/1/2/1/0001,Fufore Cottage Hospital
+Adamawa,Ganye,Ganye 2,19422030,02/03/1/2/1/0001,General Hospital Ganye
+Adamawa,Gombi,Garkida,31808165,02/05/1/2/1/0002,Garkida General Hospital
+Adamawa,Gombi,Garkida,18693563,02/05/1/2/1/0067,Garkida Leprosy Hospital
+Adamawa,Guyuk,Guyuk,43645409,02/06/1/2/1/0001,Guyuk Cottage Hospital
+Adamawa,Hong,Shangui,60588991,02/07/1/2/1/0001,Hong General Hospital
+Adamawa,Jada,Jada 2,65187967,02/08/1/1/1/0022,Jada General Hospital
+Adamawa,Madagali,Gulak,17845730,02/10/1/2/1/0001,Cottage Hospital Gulak
+Adamawa,Maiha,Mayo-Nguli,28522110,02/11/1/2/1/0001,Maiha Cottage Hospital
+Adamawa,Mayo-Belwa,Mbilla,34853210,02/12/1/1/2/0003,Kowa  Clinic
+Adamawa,Mayo-Belwa,Mbilla,33404154,02/12/1/1/1/0045,Mayo-Belwa Cottage Hospital
+Adamawa,Michika,Michika 2,62779093,02/13/1/1/1/0016,Michika General Hospital
+Adamawa,Mubi North,Lokuwa,33736952,02/14/1/2/1/0062,ADSU Health Clinic
+Adamawa,Mubi North,Lokuwa,68187069,02/14/1/2/2/0001,New Life Health Clinic
+Adamawa,Mubi North,Yelwa (Mubi North),41281648,02/14/1/1/2/0002,Basira Health Clinic
+Adamawa,Mubi South,Nasarawo,39963337,02/15/1/2/1/0001,Mubi General Hospital
+Adamawa,Numan,Sabon Pegi,27109987,02/16/1/2/1/0001,General Hospital Numan
+Adamawa,Song,Dumne,12729150,02/18/1/2/1/0001,Dumne Primary Health Care Centre
+Adamawa,Song,Song Gari,25031308,02/18/1/2/2/0001,Song Cottage Hospital
+Adamawa,Toungo,Toungo 1,40428714,02/19/1/2/1/0001,Cottage Hospital Toungo
+Adamawa,Yola North,Alkalawa,31834430,02/20/1/1/2/0003,Da'Ama Specialist Hospital
+Adamawa,Yola North,Alkalawa,55824688,02/20/1/2/2/0003,Galbose Hospital
+Adamawa,Yola North,Doubeli,66913265,02/20/1/2/2/0001,Bamaiyi Hospital
+Adamawa,Yola North,Gwadabawa,56207975,02/20/1/2/2/0037,Munagu Hospital
+Adamawa,Yola North,Jambutu,46452127,02/20/1/2/2/0008,Saint Francis Hospital
+Adamawa,Yola North,Karewa,82983001,02/20/1/2/1/0002,163 Nigerian Airforce Hospital
+Adamawa,Yola North,Karewa,62976710,02/20/1/2/1/0001,23Rd Army Medical Hospital
+Adamawa,Yola North,Karewa,74113088,02/20/1/2/2/0006,Matco Hospital
+Adamawa,Yola North,Karewa,24116261,02/20/1/1/2/0002,New Boshong Hospital
+Adamawa,Yola North,Luggere,34745291,02/20/1/2/2/0035,Fortland Hospital
+Adamawa,Yola North,Luggere,58693867,02/20/1/2/2/0002,Freedom Poly Hospital
+Adamawa,Yola North,Luggere,65263689,02/20/1/2/2/0005,Jemita Maternity Clinic
+Adamawa,Yola North,Luggere,44360997,02/20/1/2/2/0007,Peace Hospital
+Adamawa,Yola North,Luggere,55184554,02/20/1/1/2/0014,Triumph Clinic
+Adamawa,Yola North,Nassarawo,74548539,02/20/1/2/1/0003,Yola Specialist Hospital
+Adamawa,Yola South,Bole-Yoldepate,19075444,02/21/1/1/1/0024,Nice Nursing & Maternity Home
+Adamawa,Yola South,Makama B,52622487,02/21/1/2/2/0001,Adamawa Hospital Limited
+Adamawa,Yola South,Ngurore,56463039,02/21/1/1/1/0006,Gadish Changrai Memorial Hospital
+Adamawa,Yola South,Toungo,72866227,02/21/1/1/1/0019,Meddy Private Clinic
+Akwa-Ibom,Abak,Abak Urban 1,57398104,03/01/1/1/1/0020,Ukpom Abak General Hospital
+Akwa-Ibom,Abak,Abak Urban 2,17537557,03/01/1/2/1/0003,Ibagwa Medical Reception Station (6 Battallion)
+Akwa-Ibom,Abak,Abak Urban 3,46003867,03/01/1/2/2/0001,Cedar & Olive Clinic
+Akwa-Ibom,Abak,Abak Urban 3,71777181,03/01/1/1/1/0020,Divine Medical Centre
+Akwa-Ibom,Abak,Abak Urban 3,59711061,03/01/1/2/2/0006,Uduak Abasi Clinic
+Akwa-Ibom,Eket,Central 1,58786311,03/03/1/2/1/0002,Eket Caleb Medical Centre
+Akwa-Ibom,Eket,Central 2,14981790,03/03/1/2/2/0018,Utibe Abasi Clinic
+Akwa-Ibom,Eket,Urban 2,74768362,03/03/1/2/2/0008,Goodcare Medical Centre
+Akwa-Ibom,Eket,Urban 2,56485767,03/03/1/2/2/0004,His Grace Maternity Home
+Akwa-Ibom,Eket,Urban 2,38855105,03/03/1/2/1/0004,Holifield Specialist Hospital
+Akwa-Ibom,Eket,Urban 2,51356446,03/03/1/2/2/0011,Nduye Medical Services
+Akwa-Ibom,Eket,Urban 2,63359994,03/03/1/2/2/0022,Romivic Specialist Hospital
+Akwa-Ibom,Eket,Urban 3,23031402,03/03/1/2/2/0023,Cozar Specialist Hospital
+Akwa-Ibom,Eket,Urban 3,37974948,03/03/1/2/2/0002,Eket Amado Medical Centre
+Akwa-Ibom,Eket,Urban 4,49134978,03/03/1/2/2/0013,Afaha Uqua Samiaritan Clinic Eket
+Akwa-Ibom,Eket,Urban 4,38063708,03/03/1/2/2/0003,Assurance Medical Centre
+Akwa-Ibom,Eket,Urban 4,13173330,03/03/1/2/2/0024,Bethany Medical Centre
+Akwa-Ibom,Eket,Urban 4,31947248,03/03/1/2/2/0026,Ralph Angel Intervention Medical Centre
+Akwa-Ibom,Essien Udim,Afaha,52476913,03/05/1/2/1/0002,Urua Akpan St.Mary's Hospital
+Akwa-Ibom,Essien Udim,Ikpe Annang,49719156,03/05/1/2/1/0001,Ikpe Annang General Hospital
+Akwa-Ibom,Essien Udim,Ikpe Annang,24506668,03/05/1/2/2/0021,Nestor Clinic
+Akwa-Ibom,Essien Udim,Okon,29575748,03/05/1/2/2/0004,Okon Trinity Medical Centre
+Akwa-Ibom,Essien Udim,Ukana West 2,63445658,03/05/1/2/1/0003,Ukana Cottage Hospital
+Akwa-Ibom,Ibesikpo Asutan,Ibesikpo 1,30934344,03/09/1/2/2/0004,Fresh Breath Specialist Hospital
+Akwa-Ibom,Ibesikpo Asutan,Ibesikpo 1,37866514,03/09/1/2/2/0024,Roshan Clinic
+Akwa-Ibom,Ibiono Ibom,Ibiono Ibom 9,29538541,03/10/1/1/1/0003,Ntan Akpan Udom Eduwem Clinic and Maternity
+Akwa-Ibom,Ika,Ito 1,18261001,03/11/1/2/2/0015,Grace and Mercy Hospital Annex
+Akwa-Ibom,Ika,Ito 2,39798474,03/11/1/2/2/0016,Brimax Health Care Clinic
+Akwa-Ibom,Ika,Urban 2,28404487,03/11/1/2/2/0001,Mfonobong Medical Centre
+Akwa-Ibom,Ikono,Asanting,70715251,03/12/1/1/1/0024,Oduk Salton Medical Centre and Maternity
+Akwa-Ibom,Ikono,Itak,32958927,03/12/1/2/2/0055,Medico-fit Clinic And Maternity
+Akwa-Ibom,Ikono,Ndiya/Ikot Idaha,69639808,03/12/1/2/2/0005,St. Joseph Clinic and Maternity
+Akwa-Ibom,Ikono,Nkwot 2,80667724,03/12/1/1/1/0052,Nkwot Nko Christian Family Missionary Hospital
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 1,35558059,03/13/1/1/1/0083,Diamond Clinic and Matrenity
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 1,70301931,03/13/1/2/2/0092,Foundation Medical Center
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 1,33879588,03/13/1/2/2/0085,God'stime Hospital Scanning Laboratory/Maternity
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 1,36295960,03/24/1/2/2/0004,Redemption Clinic
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 1,56808849,03/13/1/2/2/0086,Veddyson Hospital
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 2,79125008,03/13/1/2/2/0001,Alscon Clinic
+Akwa-Ibom,Ikot Abasi,Ikpa Ibekwe 2,41671790,03/13/1/2/2/0087,Bethany Medical Centre
+Akwa-Ibom,Ikot Ekpene,Abiakpo Ikot Essien,25265989,03/14/1/2/2/0010,Solegg Clinic
+Akwa-Ibom,Ikot Ekpene,Ikot Ekpene 7,69069309,03/14/1/2/2/0001,The Bridge Clinic LTD
+Akwa-Ibom,Ikot Ekpene,Ikot Ekpene Urban,21537219,03/14/1/2/1/0002,Ikot Ekpene General Hospital
+Akwa-Ibom,Ikot Ekpene,Ikot Obong Edong,54925099,03/14/1/2/2/0005,Ememobong Maternity Home/Clinic
+Akwa-Ibom,Ikot Ekpene,Ikot Obong Edong,84100984,03/14/1/2/2/0047,Kit and Kin Medical Centre
+Akwa-Ibom,Ikot Ekpene,Uruk Uso,44392505,03/14/1/2/2/0008,Rego Medical Centre/Maternity Home
+Akwa-Ibom,Ini,Ikpe 2,31192330,03/15/1/2/1/0001,Ikpe Ikot Nkon General Hospital
+Akwa-Ibom,Itu,East Itam 5,25572256,03/16/1/2/2/0003,Imabong Clinic
+Akwa-Ibom,Itu,Oku Iboku,26838246,03/16/1/1/1/0018,Mary Slessor General Hospital
+Akwa-Ibom,Itu,West Itam 1,12655481,03/16/1/2/2/0001,Dan Abia Specialist Clinic
+Akwa-Ibom,Itu,West Itam 1,18308436,03/16/1/2/2/0005,Rapha Specialist Clinic
+Akwa-Ibom,Mkpat Enin,Ikpa Ibom 3,64631040,03/18/1/2/1/0001,Akwa Ibom State University Medical Centre
+Akwa-Ibom,Mkpat Enin,Ikpa Ikono 1,48306631,03/18/1/2/1/0005,Ikot Ekpaw Cottage Hospital
+Akwa-Ibom,Mkpat Enin,Ukpum Minya 3,68405988,03/18/1/2/1/0002,Asong Union Cottage Hospital
+Akwa-Ibom,Mkpat Enin,Ukpum Minya 3,63365239,03/18/1/2/1/0004,Ikot Abia Cottage Hospital
+Akwa-Ibom,Nsit Ibom,Mbiaso 3,55350963,03/20/1/2/1/0001,Enwongo-Abasi Medical Centre LTD
+Akwa-Ibom,Nsit Ibom,Mbiaso 5,39118570,03/20/1/2/2/0017,IDS Clinic/Hospital Limited
+Akwa-Ibom,Nsit Ubium,Ndiya,47485303,03/21/1/2/2/0001,Holt Medical Centre
+Akwa-Ibom,Obot Akara,Nto Edino 3,36627912,03/22/1/2/1/0001,Nto Edino Comprehensive Health Centre
+Akwa-Ibom,Okobo,Okopedi 2,67016452,03/23/1/2/1/0001,Amammong General Hospital
+Akwa-Ibom,Oron,Eyo Abasi,53482448,03/03/1/2/2/0019,Christ Victory Medical Centre
+Akwa-Ibom,Oron,Iquita,85136681,03/25/1/2/2/0002,Fadamana  Hospital
+Akwa-Ibom,Oron,Uko-Uyukim,47213399,03/25/1/2/2/0025,Unwana Oro Christian Missionary Centre
+Akwa-Ibom,Oruk Anam,Ekparakwa,35073828,03/26/1/2/2/0002,Family Foundation Clinic
+Akwa-Ibom,Oruk Anam,Ibesit Nung Ikot 1,43167564,03/26/1/2/1/0001,Ibesit Okpokoro Redeemer Cottage Hospital
+Akwa-Ibom,Oruk Anam,Ndot Ikot Okoro 3,38195097,03/26/1/2/1/0002,Ikot Okoro General Hospital
+Akwa-Ibom,Oruk Anam,Ndot Ikot Okoro 3,71937480,03/26/1/1/1/0019,Obio Akpa University Medical Centre
+Akwa-Ibom,Udung Uko,Udung Uko 10,55291423,03/27/1/2/2/0001,Ekim Unwana Oro Christian Medical Centre
+Akwa-Ibom,Ukanafun,Ukanafun 1,24838193,03/28/1/2/2/0021,Unwam Abasi Clinic
+Akwa-Ibom,Uruan,Central Uruan 1,55587980,03/29/1/2/2/0016,Fulcare Hospital/Maternity (Annex)
+Akwa-Ibom,Uruan,Central Uruan 1,30073744,03/29/1/2/1/0017,Idu 2 Brigade Medical Centre
+Akwa-Ibom,Uruan,Northern Uruan 1,73675817,03/29/1/2/1/0002,Mbiaya Comprehensive Health Centre
+Akwa-Ibom,Uruan,Southern Uruan 4,85062326,03/29/1/2/2/0001,Ekeminiabasi Medical Centre
+Akwa-Ibom,Uruan,Southern Uruan 6,15910629,03/29/1/1/1/0001,Ndon Ebom Airport  Medical Clinic
+Akwa-Ibom,Uyo,Oku 2,41807791,03/31/1/1/1/0054,Mount Olive Clinic & Maternity
+Akwa-Ibom,Uyo,Oku 2,49768761,03/31/1/2/2/0034,Our Lady of Lourdes Infimary
+Anambra,Aguata,Achina I,72067353,04/01/1/1/2/0027,Kandudi Hospital Achina
+Anambra,Aguata,Achina I,28996672,04/01/1/2/2/0075,Peoples Choice Hospital and Maternity
+Anambra,Aguata,Akpo,68105375,04/01/1/2/2/0071,St Raphael Hospital and Maternity
+Anambra,Aguata,Ekwuluobia I,43462356,04/01/1/2/2/0084,Anointed  Hospital and Maternity
+Anambra,Aguata,Ekwuluobia I,79881461,04/01/1/1/2/0005,Chibuzo Hospital And Maternity
+Anambra,Aguata,Ekwuluobia I,15208431,04/01/1/1/2/0010,Chikamso Hospital and Maternity Ekwulobia
+Anambra,Aguata,Ekwuluobia I,54743004,04/01/1/2/2/0077,Dionye Memorial Hospital and Maternity
+Anambra,Aguata,Ekwuluobia I,85032519,04/01/1/2/2/0069,Life Care Hospital
+Anambra,Aguata,Ekwuluobia I,67153578,04/01/1/1/2/0029,Messiah Foundation Hospital EKWULUOBIA
+Anambra,Aguata,Ekwuluobia I,18122974,04/01/1/1/2/0033,Ogechukwu Hospital and Maternity Ekwulobia
+Anambra,Aguata,Ekwuluobia I,27712309,04/01/1/2/2/0060,St Catherine Hospital and Maternity
+Anambra,Aguata,Ekwuluobia I,20279368,04/01/1/1/2/0038,"St. Victoria Specialist Hospital,/Maternity, Ekwulobia"
+Anambra,Aguata,Ekwuluobia I,73966250,04/01/1/2/2/0065,Ukandu Hospital and Maternity
+Anambra,Aguata,Ekwuluobia II,47106197,04/01/1/2/2/0066,Cynvic  Specialist Hospital and Maternity
+Anambra,Aguata,Ekwuluobia II,16698075,04/01/1/2/1/0001,Ekwuluobia General Hospital
+Anambra,Aguata,Ekwuluobia II,18974277,04/01/1/2/2/0079,NATIONAL MEDICAL CENTRE ULA EKWULUOBIA
+Anambra,Aguata,Ekwuluobia II,66410758,04/01/1/2/2/0009,St. Mary Hospital And Maternity
+Anambra,Aguata,Ezinifite I,57988004,04/01/1/1/2/0062,By His Stripes Hospital and  Maternity
+Anambra,Aguata,Ezinifite I,78952674,04/01/1/2/2/0056,Life Guard Hospital and Maternity
+Anambra,Aguata,Ezinifite II,39488263,04/01/1/3/1/0053,Chukwuemeka Odumegwu Ojukwu Teaching Hospital
+Anambra,Aguata,Igboukwu 11,33536888,04/01/1/2/2/0073,Gods Mercy Hospital and Maternity
+Anambra,Aguata,Igboukwu 11,43624347,04/01/1/2/2/0074,OGECHUKWU HOSPITAL AND MATERNITY
+Anambra,Aguata,Igboukwu 11,63882790,04/01/1/2/2/0061,Prime Specialist Hospital and Maternity
+Anambra,Aguata,Igboukwu 11,35949173,04/01/1/2/2/0057,St Jude Hospital and Maternity
+Anambra,Aguata,Igboukwu 11,52431421,04/01/1/2/2/0072,St Raphael Catholic Hospital and Maternity
+Anambra,Aguata,Igboukwu I,46150457,04/01/1/2/2/0001,Anglican Diocesan Hospital and Maternity Igboukwu
+Anambra,Aguata,Igboukwu I,81553729,04/01/1/2/2/0004,Apex Medical Centre Igboukwu
+Anambra,Aguata,Igboukwu I,15678299,04/01/1/1/2/0064,El -Shaddai Clinic
+Anambra,Aguata,Igboukwu I,21759292,04/01/1/1/2/0023,He Reigns Hospital And Maternity Igboukwu
+Anambra,Aguata,Igboukwu I,63886828,04/01/1/2/2/0081,The Lord Reigns Hospital and Maternity
+Anambra,Aguata,Igboukwu I,68740989,04/01/1/2/2/0058,Tobechukwu Hospital and Maternity
+Anambra,Aguata,Igboukwu I,26704099,04/01/1/1/2/0040,Union Hospital Igbo-Ukwu
+Anambra,Aguata,Mkpologwu,58531308,04/01/1/2/2/0008,Edeltraut Memorial Community Hospital
+Anambra,Aguata,Mkpologwu,15400072,04/01/1/2/2/0080,National Medical Centre Nkpologwu
+Anambra,Aguata,Ora-Eri,12997602,04/01/1/2/2/0078,Chiemelie Hospital and Maternity
+Anambra,Aguata,Uga 11,77728525,04/01/1/2/2/0067,Apex Medical Centre UGA
+Anambra,Aguata,Uga 11,80372370,04/01/1/1/2/0006,Chidera Model Hospital and Maternity Home
+Anambra,Aguata,Uga 11,18681500,04/01/1/2/2/0052,Grace Land Majestic USA Hospital and Maternity
+Anambra,Aguata,Uga 11,51530254,04/01/1/1/2/0026,Jesse Memorial Hospital and Maternity
+Anambra,Aguata,Uga 11,35630283,04/01/1/2/2/0059,St Patrick Hospital and Maternity
+Anambra,Aguata,Uga 11,45294642,04/01/1/1/2/0039,The Lord Reigns Hospital & Matarnity
+Anambra,Aguata,Uga I,57437818,04/16/1/1/1/0006,Ave Maria Hospital and Maternity Home UGA
+Anambra,Aguata,Uga I,34721892,04/01/1/2/2/0083,He  Reigns Hospital and Maternity Uga
+Anambra,Aguata,Uga I,24654799,04/01/1/2/2/0068,SHEKKINA  GLORY HOSPITAL
+Anambra,Aguata,Umuchu 1,50810718,04/01/1/2/2/0002,Akachukwu Hospital & Maternity Umuchu
+Anambra,Aguata,Umuchu 1,30190869,04/01/1/1/2/0001,Catholic Visitation  Hospital & Maternity Umuchu
+Anambra,Aguata,Umuchu 1,82195337,04/01/1/1/2/0031,Nwajiaku Inland Hospital And Maternity
+Anambra,Aguata,Umuchu 1,48375771,04/01/1/2/1/0003,Umuchu General Hospital
+Anambra,Aguata,Umuona,65680679,04/01/1/2/2/0076,Ijeoma Hospital and Maternity
+Anambra,Anambra East,Otuocha 2,33527840,04/02/1/2/2/0038,JC New Life Hospital and Maternity Otuocha
+Anambra,Anambra East,Otuocha 2,68041477,04/02/1/2/2/0002,Onyedikachi Hospital & Maternity
+Anambra,Anaocha,Adazi Enu 2,57026115,04/04/1/1/2/0019,Micheal Momoral Hospital Adazi-Enu
+Anambra,Anaocha,Adazi Nnukwu 1,36769485,04/04/1/1/2/0001,Adazi St Joseph Hospital
+Anambra,Anaocha,Adazi Nnukwu 1,78832149,04/04/1/2/2/0036,chukwudubem hosp adazinnukwu
+Anambra,Anaocha,Adazi Nnukwu 1,59406766,04/04/1/1/1/0033,St Joseph's Hospital
+Anambra,Anaocha,Agulu 1,70611455,04/04/1/1/2/0009,Echezona Hospital and Maternity
+Anambra,Anaocha,Agulu II,30573596,04/04/1/2/1/0001,Agulu General Hospital
+Anambra,Anaocha,Agulu II,85688800,04/04/1/1/2/0002,All Saints Hospital Agulu
+Anambra,Anaocha,Agulu II,56077513,04/04/1/1/2/0011,Ifeanyi Chukwu Hospital and Maternity
+Anambra,Anaocha,Agulu III,32548484,04/04/1/2/2/0040,Mac Jane Hosp Agulu
+Anambra,Anaocha,Aguluizigbo,77286001,04/04/1/2/1/0002,Aguluizugbo General Hospital
+Anambra,Anaocha,Neni 1,85348169,04/04/1/3/1/0001,Nnamdi Azikiwe University Teaching Hospitalneni
+Anambra,Anaocha,Nri 1,16521163,04/04/1/1/1/0033,Nri General Hospital
+Anambra,Awka North,Amanuke ward,64868594,04/05/1/2/1/0002,Amanuke General Hospital
+Anambra,Awka North,Ebenebe 2,55286443,04/05/1/1/2/0004,Dike Medical Centre
+Anambra,Awka North,Isuaniocha ward,30127556,04/05/1/2/2/0063,Lancet Hospital LTD
+Anambra,Awka South,Amawbia I,68043643,04/06/1/2/2/0048,Celflow Specialist Hospital Amawbia
+Anambra,Awka South,Amawbia I,61599134,04/06/1/2/1/0002,Jesus Our Physician Hospital
+Anambra,Awka South,Amawbia I,51830598,04/06/1/1/2/0033,Sylvann Medical Clinic Amawbia
+Anambra,Awka South,Amawbia II,64114736,04/06/1/1/2/0022,Nworah Hiltop Hospital
+Anambra,Awka South,Amawbia II,27850625,04/06/1/1/2/0047,Our Lord's Hospital and Maternity Amawbia
+Anambra,Awka South,Amawbia III,20970440,04/06/1/1/2/0025,Prime Specislist Hospital Children
+Anambra,Awka South,Amawbia III,55347822,04/06/1/2/2/0070,Spotlight Hospital and Maternity
+Anambra,Awka South,Amawbia III,43584746,04/06/1/2/2/0005,St Helen Specialist Hospital Maternity
+Anambra,Awka South,Amawbia III,84723629,04/06/1/1/2/0045,Vessel Of Mercy Hospital and Maternity  Amawbia
+Anambra,Awka South,Awka II,38252988,04/06/1/2/2/0044,Apex Orthopedic and Muiti Speciality Medical Complex Awka
+Anambra,Awka South,Awka II,24029361,04/06/1/1/2/0002,Beacon Hospital/Maternity
+Anambra,Awka South,Awka II,80281960,04/06/1/1/2/0004,Chidubem Hospital and Maternity
+Anambra,Awka South,Awka II,74346719,04/06/1/1/2/0010,Climax Specialist Hospital
+Anambra,Awka South,Awka II,12970142,04/17/1/1/2/0032,Izunna Hospital
+Anambra,Awka South,Awka II,34068055,04/06/1/1/2/0021,Miracle Hospital and Maternity Home
+Anambra,Awka South,Awka II,33997196,04/06/1/2/2/0003,Okoye Specialist Hospital
+Anambra,Awka South,Awka II,69721499,04/06/1/2/2/0004,Regina Ceali Hospital
+Anambra,Awka South,Awka II,84313921,04/06/1/2/2/0074,St Theresa Hospital
+Anambra,Awka South,Awka III,23603887,04/06/1/2/2/0042,DayStar Specialist Hospital and Maternity(Multi-Specialist)
+Anambra,Awka South,Awka III,74449660,04/06/1/2/2/0002,Ifebi Medical Centre
+Anambra,Awka South,Awka III,78975565,04/06/1/2/2/0043,Joevic Specialist and Maternity Hospital Awka
+Anambra,Awka South,Awka IV,61182316,04/06/1/1/2/0009,Christ The King Hospital
+Anambra,Awka South,Awka IV,58679092,04/06/1/1/2/0001,Harmony Hospital
+Anambra,Awka South,Awka IV,82606592,04/06/1/1/2/0017,His Glory Hospital And Maternity
+Anambra,Awka South,Awka IV,84767870,04/06/1/2/2/0078,Hope Alive Mission Hospital
+Anambra,Awka South,Awka IV,52061723,04/06/1/1/1/0039,Rock Foundation Hospital
+Anambra,Awka South,Awka V,72366890,04/06/1/1/2/0023,Obioma Hospital / Maternity
+Anambra,Awka South,Awka V,17562960,04/06/1/2/2/0040,R.N Afunugo Memorial Hospital Awka
+Anambra,Awka South,Awka VI,79170112,04/06/1/2/2/0056,Awka Medical Center
+Anambra,Awka South,Awka VI,23093496,04/06/1/1/2/0011,Crest Hospital Awka
+Anambra,Awka South,Awka VI,27634370,04/06/1/1/2/0012,Divine Hospital And Maternity
+Anambra,Awka South,Awka VI,51474375,04/06/1/2/2/0052,Everest Hospital and Maternity Awka
+Anambra,Awka South,Awka VI,77994234,04/06/1/2/2/0061,First Hospital and Maternity Awka
+Anambra,Awka South,Awka VI,17579461,04/06/1/2/2/0054,Pearls Specialist Hospital Awka
+Anambra,Awka South,Awka VI,37504319,04/06/1/2/1/0004,Police Comprehensive Hospital Awka
+Anambra,Awka South,Awka VI,47878281,04/06/1/2/2/0046,Radiant  Health Specialist Hospital Awka
+Anambra,Awka South,Awka VI,37313223,04/06/1/2/2/0055,Rapha Specialist Hospital Awka
+Anambra,Awka South,Awka VI,71138843,04/06/1/3/2/0071,Restoration Specialist Hospital
+Anambra,Awka South,Awka VI,40726907,04/06/1/1/2/0031,Sefton Specialist Hospital
+Anambra,Awka South,Awka VI,24718513,04/06/1/2/2/0041,Shekinah Hospital and Maternity
+Anambra,Awka South,Awka VI,18019242,04/06/1/2/2/0072,Think Home Hospital
+Anambra,Awka South,Awka VI,63796591,04/06/1/2/2/0006,Trinity Hospital and Maternity Awka
+Anambra,Awka South,Awka VII,31547522,04/06/1/2/2/0059,Life International Hospital Awka
+Anambra,Awka South,Awka VII,15176350,04/06/1/2/2/0079,St Augustine and Vivian Mission Hospital and mat
+Anambra,Awka South,Awka VIII,19950323,04/06/1/2/2/0073,Madonna Hospital
+Anambra,Awka South,Mbaukwu,65075180,04/06/1/2/2/0060,Ifeanyichukwu Hospital and Maternity
+Anambra,Awka South,Mbaukwu,25638135,04/06/1/2/1/0003,Mbaukwu General Hospital
+Anambra,Awka South,Okpuno I,18195960,04/06/1/2/2/0063,Cedars Specialist Hospital
+Anambra,Awka South,Okpuno I,72030822,04/06/1/2/2/0064,Eldorado Multispecialist Hospital
+Anambra,Awka South,Okpuno I,39678195,04/06/1/2/2/0053,Graceland Hospital
+Anambra,Awka South,Okpuno I,59756993,04/06/1/2/2/0051,Infant Jesus Hospital
+Anambra,Awka South,Okpuno I,48118582,04/06/1/2/2/0069,Meshach Memorial Hospital and Maternity
+Anambra,Awka South,Okpuno I,24840464,04/06/1/2/2/0050,New Convenant Children Hospital Okpuno
+Anambra,Awka South,Okpuno I,58393601,04/06/1/2/2/0049,Reedemed Chritian Church Of God Hospital
+Anambra,Awka South,Okpuno I,68718929,04/06/1/1/1/0039,St Faith Hospital and Maternity
+Anambra,Dunukofia,Ifitedunu 1,45952859,04/08/1/2/2/0033,Edozie Hospital and Maternity
+Anambra,Dunukofia,Ifitedunu 2,75042039,04/08/1/2/2/0039,Ideal Hospital and Maternity
+Anambra,Dunukofia,Ukwulu ward 2,87090540,04/08/1/2/2/0038,Model Hospita Ukwulu
+Anambra,Dunukofia,Umunnachi ward 1,71981062,04/08/1/1/2/0004,Chinazo Hospital and Maternity Umunachi
+Anambra,Dunukofia,Umunnachi ward 1,65483362,04/08/1/1/2/0006,First Foundation Hospital & Maternity
+Anambra,Ekwusigo,Amakwa,81015231,04/09/1/2/2/0056,Access Specialist Hospital Ozubulu
+Anambra,Ekwusigo,Amakwa,46901206,04/09/1/2/2/0041,Chisom Hospital/Maternity Ozubulu
+Anambra,Ekwusigo,Amakwa,84369505,04/09/1/2/1/0001,"Joint Hospital, Ozubulu Amakwa"
+Anambra,Ekwusigo,Egbema,78590732,04/09/1/1/2/0008,Evans Specialist Hospital Ozbulu
+Anambra,Ekwusigo,Egbema,72521933,04/09/1/2/2/0043,Loyola Hospital&Maternity Ozubulu
+Anambra,Ekwusigo,Egbema,33105681,04/09/1/2/2/0042,Odinaka Hospital/Maternity Ozubulu
+Anambra,Ekwusigo,Eziora 1,32307934,04/09/1/1/2/0012,Gracelight and Truth Health Maternity
+Anambra,Ekwusigo,Eziora 1,63559889,04/09/1/1/2/0020,St. Jude Hospital and Maternity
+Anambra,Ekwusigo,Ichi,57776327,04/09/1/2/1/0055,Ichi General Hospital
+Anambra,Ekwusigo,Ifite..,39318248,04/09/1/1/2/0011,God's Victory Hospital/Maternity Oraifite
+Anambra,Ekwusigo,Ifite..,55849414,04/09/1/2/2/0047,Josephine and Lawrence memorial Hospital/Maternityity Ifite
+Anambra,Ekwusigo,Ifite..,58867042,04/09/1/2/1/0054,Oraifite General Hospital
+Anambra,Idemili North,Nkpor,65671614,04/10/1/2/2/0131,Blessed Hospital
+Anambra,Idemili North,Nkpor,27626667,04/10/1/2/2/0130,Dalex Hospital
+Anambra,Idemili North,Nkpor,41738595,04/10/1/2/2/0122,Hillview Hospital and Maternity
+Anambra,Idemili North,Nkpor,74138890,04/10/1/2/2/0110,Hossana Hospital
+Anambra,Idemili North,Nkpor,77224560,04/10/1/2/2/0015,Immaculate Heart Hospital Nkpor
+Anambra,Idemili North,Nkpor,71408102,04/10/1/2/2/0106,Ivy Foundation Hospital Nkpor
+Anambra,Idemili North,Nkpor,65185761,04/10/1/1/2/0035,Mainland Hospital
+Anambra,Idemili North,Nkpor,84908917,04/10/1/2/2/0135,Mmachukwu Hospital and Maternity
+Anambra,Idemili North,Nkpor,79527674,04/10/1/2/2/0120,Rock of Ages Hospital and Maternity
+Anambra,Idemili North,Nkpor,66442814,04/10/1/2/2/0114,Siri Hospital and Maternity
+Anambra,Idemili North,Nkpor,13281574,04/10/1/2/2/0129,St Dominic Savio
+Anambra,Idemili North,Nkpor,62936000,04/10/1/2/2/0128,St Martins Hospital and Maternity
+Anambra,Idemili North,Nkpor,50887932,04/10/1/2/2/0127,St Stephen Hospital and Maternity
+Anambra,Idemili North,Nkpor,22907561,04/10/1/2/2/0117,Summer Hill Hospital and Maternity
+Anambra,Idemili North,Nkpor II,22809263,04/10/1/2/2/0123,Akachukwu Hospital and Maternity
+Anambra,Idemili North,Nkpor II,28613247,04/10/1/1/2/0008,Chukwubuikem Hospital & Maternity
+Anambra,Idemili North,Nkpor-Uno 1,20078910,04/10/1/2/2/0136,Caprin Hospital
+Anambra,Idemili North,Nkpor-Uno 1,42155451,04/10/1/2/2/0005,Chukwudi Medical Care Hospital
+Anambra,Idemili North,Obosi 1,14314815,04/10/1/2/2/0098,Day Spring Hospital and Maternity
+Anambra,Idemili North,Obosi 1,16501780,04/10/1/2/2/0138,Moon-Health Foundation Hospital and Diagnostics Limited
+Anambra,Idemili North,Obosi 1,63878515,04/10/1/1/2/0060,Ugochukwu Hospital/Maternity Nkpor
+Anambra,Idemili North,Obosi 1,29375148,04/10/1/2/2/0033,Unity Hospital / Maternity Obosi
+Anambra,Idemili North,Obosi II,23386884,04/10/1/2/2/0107,Angel of God Hospital Complex Awada
+Anambra,Idemili North,Obosi II,40817306,04/10/1/2/2/0089,Ark of Convenant Hospital and Maternity Awada
+Anambra,Idemili North,Obosi II,67618914,04/10/1/1/2/0013,Chinazor Hospital  and Maternity
+Anambra,Idemili North,Obosi II,18836282,04/10/1/2/2/0101,Chizoba Hospital and Maternity Awada
+Anambra,Idemili North,Obosi II,34074851,04/10/1/2/2/0090,Divine Favour Hospital
+Anambra,Idemili North,Obosi II,60023205,04/10/1/2/2/0092,Divine Mercy Hospital and Maternity Awada
+Anambra,Idemili North,Obosi II,32933245,04/10/1/2/2/0012,Hill Crest Hospital
+Anambra,Idemili North,Obosi II,76318006,04/10/1/2/2/0091,Nationale Hospital Awada
+Anambra,Idemili North,Obosi II,29512744,04/10/1/2/2/0027,Pieta Hospital Maternity
+Anambra,Idemili North,Obosi II,13743288,04/10/1/2/2/0108,St Martin's Catholic Hospital and Maternity Awada
+Anambra,Idemili North,Ogidi,78614637,04/10/1/1/2/0003,Ajafo Okwuosa Hospital Ogidi
+Anambra,Idemili North,Ogidi,67385460,04/10/1/2/2/0118,Twinkle Hospital and Maternity
+Anambra,Idemili South,Alor ward,19309045,04/11/1/2/1/0004,Mezie Hospital Alor
+Anambra,Idemili South,Awka-Etiti 1,67203644,04/11/1/1/1/0042,Our Lady of Fatima Hospital and Maternity
+Anambra,Idemili South,Nnobi ward 1,45969806,04/11/1/1/1/0011,Chukwunonso Hospital And Maternity
+Anambra,Idemili South,Nnobi ward 1,24650974,04/11/1/1/2/0007,Moom Hospital And Maternity
+Anambra,Idemili South,Nnobi ward 1,19410500,04/11/1/2/1/0002,NNOBI GENERAL HOSPITAL
+Anambra,Idemili South,Oba,85248074,04/11/1/2/2/0001,"Anichebe Hospital, Oba"
+Anambra,Idemili South,Oba,62039925,04/11/1/2/2/0004,"Reliance Hospital, Oba"
+Anambra,Idemili South,Oba II,85897805,04/11/1/2/1/0003,Jesus is Lord and saviour royal hosp and maternity
+Anambra,Idemili South,Oba III,70025631,04/11/1/1/1/0035,Trauma (NAUTH)Centre Oba
+Anambra,Idemili South,Ojoto,71446914,04/11/1/1/2/0006,Egbunike Hospital Ojoto
+Anambra,Idemili South,Unknown,66219973,04/11/1/2/2/0005,"St. Francis Specialist Maternity/Hospital, Awka-Etiti"
+Anambra,Ihiala,Amamu A ward,69426962,04/12/1/1/2/0016,Our Lady of Lourdes Hospital Ihiala
+Anambra,Ihiala,Umuhu/Ubahu ward,61210323,04/12/1/1/2/0083,Dan-Blessing Hospital and Maternity Okija
+Anambra,Njikoka,Abagana ward 3,66037514,04/13/1/3/1/0001,Nnamdi Azikiwe Teaching Hospital Abagana
+Anambra,Njikoka,Abagana ward 4,51656084,04/13/1/2/2/0040,King David  Hospital Abagana
+Anambra,Njikoka,Enugwu Ukwu 1,23717890,04/13/1/1/1/0011,Enugwu Ukwu General Hospital
+Anambra,Njikoka,Nimo III,21605903,04/13/1/2/2/0048,Bekee Hospital Nimo
+Anambra,Njikoka,Nimo III,69766075,04/13/1/2/1/0049,Nimo General Hospital
+Anambra,Nnewi North,Nnewi Ichi ward I,43407528,04/14/1/2/2/0089,Chikezie Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward I,39710893,04/14/1/1/2/0008,Chimex Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward I,78784691,04/14/1/1/1/0068,Divine Mercy Hospital and Maternity Otolo
+Anambra,Nnewi North,Nnewi Ichi ward I,26908271,04/14/1/2/2/0090,Eastern Specialist Surgical Clinics
+Anambra,Nnewi North,Nnewi Ichi ward I,41978984,04/20/1/1/2/0004,Immaculate heart Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward I,29664648,04/14/1/1/2/0042,Obioma Specialist Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward II,57094147,04/14/1/2/2/0070,C himaobi Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward II,57978132,04/14/1/2/2/0094,Living Spring Specialist Children Hospital and Maternity
+Anambra,Nnewi North,Nnewi Ichi ward II,16035113,04/14/1/2/2/0097,Marion Rose Specialist Hospital and Orthopedic Center
+Anambra,Nnewi North,Nnewi Ichi ward II,23148179,04/14/1/1/2/0044,Ojiofor Specialist Hospital Nnewi
+Anambra,Nnewi North,Nnewi Ichi ward II,71264786,04/14/1/2/2/0107,Uchenna Hospital and Maternity
+Anambra,Nnewi North,Otolo ward I,63034154,04/14/1/2/2/0073,Chidera Hospital and Maternity
+Anambra,Nnewi North,Otolo ward I,58485681,04/14/1/2/2/0006,Diocesan Hospital and maternity Nnewi
+Anambra,Nnewi North,Otolo ward I,17443378,04/14/1/2/2/0100,Grace and Truth Hospital
+Anambra,Nnewi North,Otolo ward I,65577352,04/14/1/2/2/0104,Heritage Hospital
+Anambra,Nnewi North,Otolo ward II,54050534,04/14/1/2/2/0091,Victory Hospital
+Anambra,Nnewi North,Umudim ward I,39699445,04/14/1/1/1/0068,Chicason Hospital and Maternity
+Anambra,Nnewi North,Umudim ward I,68405480,04/10/1/1/2/0041,Ngozi Chukwuka Hospital and Maternity
+Anambra,Nnewi North,Umudim ward II,83862606,04/14/1/1/2/0036,Life Specialist Hospital And Maternity
+Anambra,Nnewi North,Umudim ward II,18384324,04/14/1/2/2/0079,St Felix Hospital and  Maternity
+Anambra,Nnewi North,Umudim ward II,47185947,04/14/1/2/2/0020,The Light  Hospital and Maternity
+Anambra,Nnewi North,Uruagu III,35901757,04/14/1/1/1/0012,Foundation Hospital and Maternity
+Anambra,Nnewi North,Uruagu III,18802214,04/14/1/2/2/0015,Rose of Sharon Specialist Hospital and Maternity
+Anambra,Nnewi South,Ebenator ward 18,61303659,04/15/1/2/2/0073,Calvary Hospital & Maternity
+Anambra,Nnewi South,Osumenyi 13,46512959,04/15/1/1/2/0070,Good health hospital osumenyi
+Anambra,Ogbaru,Iyiowa Odekpe ward,38655425,04/16/1/1/2/0002,Beautiful gate Hospital and Maternity
+Anambra,Ogbaru,Iyiowa Odekpe ward,34552173,04/16/1/1/2/0004,"Chioma Matenrity Hospital, Odekpe"
+Anambra,Ogbaru,Iyiowa Odekpe ward,21125353,04/16/1/1/1/0063,Holy Child Maternity
+Anambra,Ogbaru,Iyiowa Odekpe ward,54499994,04/16/1/2/2/0003,Lumen Christ Hospital
+Anambra,Ogbaru,Iyiowa Odekpe ward,33224753,04/16/1/1/2/0011,New Life Hospital
+Anambra,Ogbaru,Iyiowa Odekpe ward,15559605,04/16/1/2/2/0068,Our Mother Pepetual Help Maternity
+Anambra,Ogbaru,Iyiowa Odekpe ward,66908697,04/16/1/1/1/0063,St Beth Hospital
+Anambra,Ogbaru,Iyiowa Odekpe ward,56222139,04/10/1/1/2/0063,Victory Hospital and Maternity
+Anambra,Ogbaru,Okpoko ward III,26001518,04/16/1/1/2/0019,Patricia Memorial Hospital and Maternity
+Anambra,Ogbaru,Okpoko ward IV,53548039,04/16/1/2/2/0001,Bethel Hospital Okpoko
+Anambra,Ogbaru,Okpoko ward IV,82687708,04/16/1/2/2/0066,Chukwu Memorial Hospital and maternity
+Anambra,Ogbaru,Okpoko ward IV,84555106,04/16/1/1/1/0008,Mother of Mercy Maternity
+Anambra,Ogbaru,Okpoko ward IV,54929002,04/16/1/1/2/0017,Orient Hospital And Maternity
+Anambra,Ogbaru,Okpoko ward IV,71109243,04/16/1/2/2/0072,St Mary hospital and  maternity
+Anambra,Ogbaru,Okpoko ward IV,50494430,04/16/1/2/2/0070,Uchenna hospital and maternity
+Anambra,Ogbaru,Okpoko ward V,39223784,04/16/1/1/2/0006,Ebenezar Hospital and Maternity
+Anambra,Ogbaru,Okpoko ward V,36474183,04/16/1/2/2/0002,Edmund Specialist Hospital
+Anambra,Ogbaru,Okpoko ward V,59894790,04/16/1/1/1/0063,Kelechi Hospital and Maternity
+Anambra,Ogbaru,Okpoko ward V,71406127,04/16/1/2/2/0071,St Paul Hospital and Maternity
+Anambra,Ogbaru,Okpoko ward V,17063249,04/16/1/1/1/0063,St. Lukes Hospital
+Anambra,Ogbaru,Okpoko ward VI,66118928,04/16/1/1/1/0063,Chukwubuike Maternity Home
+Anambra,Ogbaru,Okpoko ward VI,56743904,04/16/1/1/2/0008,Goodnews Hospital And Maternity
+Anambra,Ogbaru,Okpoko ward VI,80627689,04/16/1/1/1/0063,Kingskid Hospital
+Anambra,Ogbaru,Okpoko ward VI,25206735,04/16/1/2/2/0078,Multi-Care hospital
+Anambra,Ogbaru,Okpoko ward VI,45697958,04/16/1/1/2/0016,Nwobi Hospital And Maternity
+Anambra,Ogbaru,Okpoko ward VI,68264952,04/16/1/1/2/0020,Presentation Hospital and Maternity
+Anambra,Onitsha North,American Quarters ward 1,67893814,04/17/1/1/2/0003,All Hallows Hospital And Maternity
+Anambra,Onitsha North,American Quarters ward 1,77259861,04/17/1/2/2/0012,Kanayo Specialist Hospital And Maternity
+Anambra,Onitsha North,American Quarters ward 1,71223810,04/17/1/2/2/0070,Mezie Hospital and Maternity
+Anambra,Onitsha North,American Quarters ward 1,61208935,04/17/1/2/2/0066,Mrecy Specialist Hospital and Maternity
+Anambra,Onitsha North,Army Barracks ward 2,50666335,04/17/1/1/2/0006,Army Barracks MRS Hospital
+Anambra,Onitsha North,Army Barracks ward 2,69580583,04/10/1/1/2/0042,First line Hospital and Maternity
+Anambra,Onitsha North,Army Barracks ward 2,54479862,04/17/1/2/2/0069,New Life Hospital and maternity
+Anambra,Onitsha North,Army Barracks ward 2,55416943,04/17/1/2/2/0017,St Charles Borromeo Hospital
+Anambra,Onitsha North,Army Barracks ward 2,27156268,04/17/1/1/2/0061,Winners Hospital And Maternity
+Anambra,Onitsha North,Emmanuel Church ward 3,39045483,04/17/1/1/2/0042,Pinoeer Internatial Hospital
+Anambra,Onitsha North,Emmanuel Church ward 3,74159468,04/17/1/1/2/0023,Rushgreen Specialist Hospital and Maternity
+Anambra,Onitsha North,Emmanuel Church ward 3,36440849,04/10/1/2/2/0031,Shalom Foundation Specialist Hospital and Maternity
+Anambra,Onitsha North,Ogbeumuonicha ward 7,61831172,04/17/1/2/2/0003,Arinzechukwu Hospital
+Anambra,Onitsha North,Ogbeumuonicha ward 7,27669238,04/17/1/2/2/0011,Holy Rosary Specialist Hospital And Maternity
+Anambra,Onitsha North,Ogbeumuonicha ward 7,53621435,04/17/1/1/1/0010,Police Medical Centre
+Anambra,Onitsha North,Ogbeumuonicha ward 7,64519088,04/17/1/1/2/0053,ST Jqseph Specialist Hospital Onitsha
+Anambra,Onitsha North,Ogbolieke 10,76880243,04/17/1/1/2/0007,Azokwu Memorial Specialist Hospital And Maternity
+Anambra,Onitsha North,Omagba 1,75148439,04/17/1/1/2/0059,Venik Specialist Hospital and Maternity
+Anambra,Onitsha North,Omagba 2,43264794,04/17/1/1/2/0035,Multicare Hospital And Maternity
+Anambra,Onitsha North,Omagba 2,25244689,04/17/1/1/2/0054,St. Leo Hospital And Maternity
+Anambra,Onitsha North,Umuaroli 2,30084106,04/17/1/2/2/0067,Salvation Hospital and Maternity
+Anambra,Onitsha North,Umudei 13,77593161,04/17/1/2/2/0009,Classic Specialist Hospital
+Anambra,Onitsha North,Umudei 13,27333676,04/17/1/2/2/0064,Nchedochukwu Specialist Hospital and Maternity
+Anambra,Onitsha North,Umudei 13,84519982,04/17/1/2/1/0001,Onitsha General Hospital
+Anambra,Onitsha North,Water Works 14,24126212,04/17/1/2/2/0065,Mount Zion Medical Center
+Anambra,Onitsha North,Water Works 14,82503403,04/17/1/1/2/0056,St.Patrick'S Hospital And Maternity
+Anambra,Onitsha North,Water Works 14,26011193,04/08/1/2/2/0001,The Lord's Glory Hospital and Maternity
+Anambra,Onitsha North,Woliwo 15,81434249,04/17/1/2/2/0071,Gozie Specialist Hospital and Maternity
+Anambra,Onitsha North,Woliwo 15,43973166,04/17/1/1/2/0034,Mary Immaculate Hospital and Maternity
+Anambra,Onitsha North,Woliwo 15,83569345,04/17/1/1/2/0057,Toronto Hospital and Maternity
+Anambra,Onitsha South,Bridge Head ward 2,13309825,04/18/1/1/2/0001,Bethsidar Hospital
